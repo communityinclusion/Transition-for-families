@@ -1,0 +1,14 @@
+.green{background-color: #006361; }
+.black{background-color: #000; }
+
+.container {border-left: solid 10px #006361; border-right: solid 10px #000;}
+
+.thumb {max-width: 100px;}
+
+.lines {border-right: 1px solid #006361; border-left: 1px solid #006361;}
+.line-left {}
+
+  .or {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
